@@ -1,6 +1,9 @@
+setuptools
 pandas
 numpy
 seaborn
 scikit-learn
-
--e .
+mysql-connector-python
+pymysql
+python-dotenv
+# -e .

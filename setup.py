@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
     name="PerformanceAssessmentTool",
-    version = "0.0.1", 
+    version = "0.1.1", 
     author="Sankrita Patel",
     packages=find_packages(),
     install_requires = get_requirements('requirements.txt')
